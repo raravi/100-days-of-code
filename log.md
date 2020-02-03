@@ -53,3 +53,12 @@
 2. [todo](https://raravi.github.io/todo-vanilla/)
 3. [Bitcoin converter](https://raravi.github.io/bitcoin-converter/)
 4. [Tic Tac Toe](https://raravi.github.io/tictactoe/)
+
+### Day 7: February 3, Monday
+
+**Today's Progress**: Added a unique sudoku function and added 'Solved' overlay on win!
+Used sudoku solver by [robatron](https://github.com/robatron/sudoku.js)
+
+**Thoughts** The sudoku web app is ready!
+
+**Link(s) to work** [Sudoku](https://raravi.github.io/sudoku/)
