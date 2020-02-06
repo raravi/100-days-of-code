@@ -85,3 +85,11 @@ Added Meta tags to the projects - todovanilla, tictactoe, bitcoin converter & su
 **Thoughts** Understood the basics of node.js / Twitter API / bot setup / Heroku deployment.
 
 **Link(s) to work** [twitter-bot](https://github.com/raravi/twitter-bot)
+
+### Day 10: February 6, Thursday
+
+**Today's Progress**: Twitter-bot: Refactored the code, tweet/retweet/follow/reply to new followers functionality added.
+
+**Thoughts** Hit the Twitter rate limits due to a bug, and fixed it.
+
+**Link(s) to work** [twitter-bot](https://github.com/raravi/twitter-bot)
