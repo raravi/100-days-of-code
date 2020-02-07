@@ -93,3 +93,13 @@ Added Meta tags to the projects - todovanilla, tictactoe, bitcoin converter & su
 **Thoughts** Hit the Twitter rate limits due to a bug, and fixed it.
 
 **Link(s) to work** [twitter-bot](https://github.com/raravi/twitter-bot)
+
+### Day 11: February 7, Friday
+
+**Today's Progress**: Chat App: Created boilerplate for client-server level. Lots of decisions pending. Realtime communication using [socket.io](https://socket.io/get-started/chat/).
+
+**Thoughts** A good start!
+
+**Link(s) to work**
+1. [server](https://github.com/raravi/chat-app-server)
+2. [client](https://github.com/raravi/chat-app-client)
