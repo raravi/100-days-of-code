@@ -103,3 +103,13 @@ Added Meta tags to the projects - todovanilla, tictactoe, bitcoin converter & su
 **Link(s) to work**
 1. [server](https://github.com/raravi/chat-app-server)
 2. [client](https://github.com/raravi/chat-app-client)
+
+### Day 12: February 7, Sunday
+
+**Today's Progress**: Chat App: Added basic styling to the app. It feels like a chatting app now :)
+
+**Thoughts** Still figuring out the basics of the app!
+
+**Link(s) to work**
+1. [server](https://github.com/raravi/chat-app-server)
+2. [client](https://github.com/raravi/chat-app-client)
