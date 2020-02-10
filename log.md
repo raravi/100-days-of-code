@@ -104,7 +104,7 @@ Added Meta tags to the projects - todovanilla, tictactoe, bitcoin converter & su
 1. [server](https://github.com/raravi/chat-app-server)
 2. [client](https://github.com/raravi/chat-app-client)
 
-### Day 12: February 7, Sunday
+### Day 12: February 9, Sunday
 
 **Today's Progress**: Chat App: Added basic styling to the app. It feels like a chatting app now :)
 
@@ -113,3 +113,11 @@ Added Meta tags to the projects - todovanilla, tictactoe, bitcoin converter & su
 **Link(s) to work**
 1. [server](https://github.com/raravi/chat-app-server)
 2. [client](https://github.com/raravi/chat-app-client)
+
+### Day 13: February 10, Monday
+
+**Today's Progress**: Chat App Server: Added Login / Register routes. Added boilerplate code to handle the above API endpoints. Learnt the basics of Express.js / Passport.js / MongoDB / body-parser / Middleware setup / Routing / API setup!
+
+**Thoughts** Good progress on server end.
+
+**Link(s) to work** [server](https://github.com/raravi/chat-app-server)
