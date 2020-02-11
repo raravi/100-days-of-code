@@ -121,3 +121,14 @@ Added Meta tags to the projects - todovanilla, tictactoe, bitcoin converter & su
 **Thoughts** Good progress on server end.
 
 **Link(s) to work** [server](https://github.com/raravi/chat-app-server)
+
+### Day 14: February 11, Tuesday
+
+**Today's Progress**: Chat App Client: Added the Login / Register pages and used [axios](https://github.com/axios/axios) to POST requests to the API endpoints.
+Chat App Server: Added [cors](https://github.com/expressjs/cors) middleware to handle requests from different origins.
+
+**Thoughts** Good progress on client end.
+
+**Link(s) to work**
+1. [server](https://github.com/raravi/chat-app-server)
+2. [client](https://github.com/raravi/chat-app-client)
