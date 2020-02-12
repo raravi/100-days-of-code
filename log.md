@@ -132,3 +132,14 @@ Chat App Server: Added [cors](https://github.com/expressjs/cors) middleware to h
 **Link(s) to work**
 1. [server](https://github.com/raravi/chat-app-server)
 2. [client](https://github.com/raravi/chat-app-client)
+
+### Day 15: February 12, Wednesday
+
+**Today's Progress**: Chat App Client: Refactored code into components. Added Message history to chat!! The chat app will revert to Login page on server disconnect. Still learning about session management using socket.io!
+Chat App Server: On user being authenticated, chat history will be fetched from MongoDB and sent to client. Understood MongoDB basics.
+
+**Thoughts** Good progress on client/server end.
+
+**Link(s) to work**
+1. [server](https://github.com/raravi/chat-app-server)
+2. [client](https://github.com/raravi/chat-app-client)
