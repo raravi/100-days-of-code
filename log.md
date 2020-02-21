@@ -197,3 +197,19 @@ Removed the pseudorandom number generator Math.random() and replaced it with the
 **Thoughts** It's a start. I'm still not sure which features of a Markdown editor are feasible.
 
 **Link(s) to work** [notes-client](https://github.com/raravi/notes-client)
+
+### Day 22: February 19, Wednesday
+
+**Today's Progress**: Had to refactor the code completely to handle word pairs matching.
+
+**Thoughts** A challenging project, I'm rewriting how browser handles default behaviour in contentEditable mode.
+
+**Link(s) to work** [notes-client](https://github.com/raravi/notes-client)
+
+### Day 23: February 20, Thursday
+
+**Today's Progress**: Added functionality to handle Headers/Lists/Quotes. DRYed the code.
+
+**Thoughts** Lots of bugs squashed!
+
+**Link(s) to work** [notes-client](https://github.com/raravi/notes-client)
