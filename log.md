@@ -229,3 +229,19 @@ Removed the pseudorandom number generator Math.random() and replaced it with the
 **Thoughts** Cleaned up code!
 
 **Link(s) to work** [notes-client](https://github.com/raravi/notes-client)
+
+### Day 26: February 24, Monday
+
+**Today's Progress**: Refactored code completely to fix faulty design. Eliminated a lot of unnecessary code! This raised a lot of bugs, took the whole day to fix them.
+
+**Thoughts** I need to write good unit tests.
+
+**Link(s) to work** [notes-client](https://github.com/raravi/notes-client)
+
+### Day 27: February 25, Tuesday
+
+**Today's Progress**: Added Link functionality. And a bit of styling.
+
+**Thoughts** Nearing a stable version of the app!
+
+**Link(s) to work** [notes-client](https://github.com/raravi/notes-client)
