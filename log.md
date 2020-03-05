@@ -269,3 +269,33 @@ Removed the pseudorandom number generator Math.random() and replaced it with the
 **Thoughts** I think it's time to make editor look good :)
 
 **Link(s) to work** [notes-client](https://github.com/raravi/notes-client)
+
+### Day 31: March 3, Tuesday
+
+**Today's Progress**: Added server to notes app. Added sidebar, cleaned up UI for notes client.
+
+**Thoughts** Good start for server.
+
+**Link(s) to work**
+1. [notes-server](https://github.com/raravi/notes-server)
+2. [notes-client](https://github.com/raravi/notes-client)
+
+### Day 32: March 4, Wednesday
+
+**Today's Progress**: Added Login/Register/Reset Password functionality to server/client code using Passportjs. Added session management using express-session and connect-mongo.
+
+**Thoughts** Login works!
+
+**Link(s) to work**
+1. [notes-server](https://github.com/raravi/notes-server)
+2. [notes-client](https://github.com/raravi/notes-client)
+
+### Day 33: March 5, Thursday
+
+**Today's Progress**: Send all notes to User on Login. Loading of notes into editor. Added a stylish scrollbar. Highlighted clicked note. Fixed Logout function - removed token from sessionStorage.
+
+**Thoughts** It's shaping up nicely!
+
+**Link(s) to work**
+1. [notes-server](https://github.com/raravi/notes-server)
+2. [notes-client](https://github.com/raravi/notes-client)
